@@ -27,7 +27,7 @@
 <img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/GazimbeIsaac/free-for-dev/issues/1) in [GazimbeIsaac/free-for-dev](https://github.com/GazimbeIsaac/free-for-dev)
+1. ❗️ Closed issue [#1](https://github.com/socheatsok78/awesome-me/issues/1) in [socheatsok78/awesome-me](https://github.com/socheatsok78/awesome-me)
 2. 💪 Opened PR [#1](https://github.com/GazimbeIsaac/awesome-zsh-plugins/pull/1) in [GazimbeIsaac/awesome-zsh-plugins](https://github.com/GazimbeIsaac/awesome-zsh-plugins)
 3. 🗣 Commented on [#546](https://github.com/Lissy93/dashy/issues/546) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 4. 🗣 Commented on [#546](https://github.com/Lissy93/dashy/issues/546) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
